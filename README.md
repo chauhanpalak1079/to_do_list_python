@@ -1,6 +1,6 @@
 # to_do_list_python
 
-This is a simple command-line To-Do List application written in Python. It allows users to manage a list of tasks by viewing, adding, and removing tasks.
+This is a simple command-line To-Do List application written in Python that allows users to manage a list of tasks by viewing, adding, and removing tasks.
 
 ## Features
 
